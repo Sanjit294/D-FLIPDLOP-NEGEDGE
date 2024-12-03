@@ -28,17 +28,33 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 **Procedure**
 
-/* write all the steps invloved */
+1.Type the program in Quartus software.
+2.Compile and run the program.
+3.Generate the RTL schematic and save the logic diagram.
+4.Create nodes for inputs and outputs to generate the timing diagram.
+5.For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: Sanjit A RegisterNumber: 24005054
+
+![Screenshot 2024-12-03 180944](https://github.com/user-attachments/assets/b5875c09-d7b6-48fb-a1d2-49d75d9018cf)
+
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+![Screenshot 2024-12-03 181016](https://github.com/user-attachments/assets/546ca00f-7269-4e46-940f-dfb698eb6a57)
+
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![Screenshot 2024-12-03 180933](https://github.com/user-attachments/assets/da97b0b7-1409-45cf-a56c-53372acd3056)
+
+
 
 **RESULTS**
+
+Thus, the D flipflop is designed, and its functionality is validated using the truth table
+and timing diagrams.
